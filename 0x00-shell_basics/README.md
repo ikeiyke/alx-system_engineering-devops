@@ -17,3 +17,4 @@ Script 14 - script that copies all the HTML files from the current working direc
 Script 15 - script moves all files beginning with an uppercase letter
 Script 16 - deletes all files in the current working directory that end with the character ~
 Script 17 - creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Script 18 -lists all the files and directories of the current directory, separated by commas
