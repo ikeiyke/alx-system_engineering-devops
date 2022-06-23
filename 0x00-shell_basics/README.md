@@ -9,4 +9,5 @@ Script 6 - script that creates a directory named my_first_directory in the /tmp/
 Script 7 - sript moves the file betty from /tmp/ to /tmp/my_first_directory
 Script 8 - script deletes Betty
 Script 9 - script deletes my first directory
-Script 10 - script changes the working directory to the previous one 
+Script 10 - script changes the working directory to the previous one
+Script 11 - script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
