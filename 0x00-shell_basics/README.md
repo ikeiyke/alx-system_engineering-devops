@@ -10,4 +10,5 @@ Script 7 - sript moves the file betty from /tmp/ to /tmp/my_first_directory
 Script 8 - script deletes Betty
 Script 9 - script deletes my first directory
 Script 10 - script changes the working directory to the previous one
-Script 11 - script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
+Script 11 - script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+script 12 - script prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. 
