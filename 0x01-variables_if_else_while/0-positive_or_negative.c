@@ -9,7 +9,6 @@
  *
  *
  *
- * Returns is Positive or is negative or 0
  *
  *
  *
